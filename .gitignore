@@ -1,0 +1,11 @@
+# Ambientes virtuais
+.venv
+
+# Arquivo config do pyenvy
+.python-version
+
+# Arquivos de IDEs
+.vscode
+
+# PDF
+*.pdf
