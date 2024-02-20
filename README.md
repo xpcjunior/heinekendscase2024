@@ -2,7 +2,9 @@
 
 O desafio é explorar o conjunto de dados e utilizar técnicas de ciência de dados para identificar padrões ou características que possam contribuir para a correção do índice de cor da cerveja, focando na marca AMSTEL e prestando atenção especial à fase imediatamente posterior ao processo de resfriamento. Com base nos dados disponíveis, ajustar um modelo para prever a cor do mosto frio apenas para a marca AMSTEL.
 
-Confira a apresentação deste case no seguinte [link](https:**//www.canva.com/design/DAF6X03yKjk/T-H9tcz5mCuqDqAlMrVyCg/edit?utm_content=DAF6X03yKjk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Confira o código da solução no arquivo: [main.ipynb](main.ipynb)
+
+Confira a apresentação deste case: [apresentação no canva](https://www.canva.com/design/DAF6X03yKjk/T-H9tcz5mCuqDqAlMrVyCg/edit?utm_content=DAF6X03yKjk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 📄 Descrição do processo de fabricação
 
